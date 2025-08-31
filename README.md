@@ -1,2 +1,2 @@
 # hello-world
-# Suzie Xi's hello-world practice
+Suzie Xi's hello-world practice
